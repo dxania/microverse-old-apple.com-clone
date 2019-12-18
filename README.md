@@ -12,7 +12,7 @@ This project is meant to test knowledge on backgrounds and gradients.
 
 ## Live Demo
 
-View the live demo [here](https://raw.githack.com/dxania/microverse-old-apple.com-clone/features/index.html)
+View the live demo [here](https://raw.githack.com/dxania/microverse-old-apple.com-clone/master/index.html)
 
 
 ## Authors
